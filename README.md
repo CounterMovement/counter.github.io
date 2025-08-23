@@ -14,16 +14,16 @@ Resources for the popular protests against illegal and mass migration in the Uni
   </thead>
   <tbody>
     <tr>
-      <td><strong><img src="Masters/A3_LoweDontCareBetterLife.svg"/></td>
-      <td><a href="Derived/A3_LoweDontCareBetterLife.pdf">PDF</a> · <a href="Masters/A3_LoweDontCareBetterLife.svg">SVG</a></td>
-    </tr>
-    <tr>
-      <td><strong><img src="Masters/A3_NotRefugeesNotFarRight.svg"/></td>
+      <td><strong><img src="Masters/A3_NotRefugeesNotFarRight.svg" width="15%"/></td>
       <td><a href="Derived/A3_NotRefugeesNotFarRight.pdf">PDF</a> · <a href="Masters/A3_NotRefugeesNotFarRight.svg">SVG</a></td>
     </tr>
     <tr>
-      <td><strong><img src="Masters/A3_SuicidalEmpathyNaiveLeft.svg"/></strong></td>
+      <td><strong><img src="Masters/A3_SuicidalEmpathyNaiveLeft.svg" width="15%"/></strong></td>
       <td><a href="Derived/A3_SuicidalEmpathyNaiveLeft.pdf">PDF</a> · <a href="Masters/A3_SuicidalEmpathyNaiveLeft.svg">SVG</a></td>
+    </tr>
+    <tr>
+      <td><strong><img src="Masters/A3_LoweDontCareBetterLife.svg" width="15%"/></td>
+      <td><a href="Derived/A3_LoweDontCareBetterLife.pdf">PDF</a> · <a href="Masters/A3_LoweDontCareBetterLife.svg">SVG</a></td>
     </tr>
   </tbody>
 </table>
