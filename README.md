@@ -13,15 +13,15 @@ You can order commercial weatherproof prints cheaply online
   </thead>
   <tbody>
     <tr>
-      <td><strong><img src="Masters/A3_NotRefugeesNotFarRight.svg" width="20%"></img></td>
+      <td><img src="Masters/A3_NotRefugeesNotFarRight.svg" width="20%"></img></td>
       <td><a href="Derived/A3_NotRefugeesNotFarRight.pdf">PDF</a> · <a href="Masters/A3_NotRefugeesNotFarRight.svg">SVG</a></td>
     </tr>
     <tr>
-      <td><strong><img src="Masters/A3_SuicidalEmpathyNaiveLeft.svg" width="20%"></img></strong></td>
+      <td><img src="Masters/A3_SuicidalEmpathyNaiveLeft.svg" width="20%"></img></td>
       <td><a href="Derived/A3_SuicidalEmpathyNaiveLeft.pdf">PDF</a> · <a href="Masters/A3_SuicidalEmpathyNaiveLeft.svg">SVG</a></td>
     </tr>
     <tr>
-      <td><strong><img src="Masters/A3_LoweDontCareBetterLife.svg" width="20%"></img></td>
+      <td><img src="Masters/A3_LoweDontCareBetterLife.svg" width="20%"></img></td>
       <td><a href="Derived/A3_LoweDontCareBetterLife.pdf">PDF</a> · <a href="Masters/A3_LoweDontCareBetterLife.svg">SVG</a></td>
     </tr>
   </tbody>
