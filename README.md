@@ -1,5 +1,8 @@
-# Migration
-Resources for the popular protests against illegal and mass migration in the United Kingdom
+# Protest Resources
+
+Resources for the popular protests against illegal and mass migration in the United Kingdom. These are available in PDF and SVG formats and aim at A2 or A3 portrait prints.
+
+You can order commercial weatherproof prints cheaply online
 
 <table width="100%">
   <thead>
